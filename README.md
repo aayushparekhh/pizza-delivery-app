@@ -1,5 +1,5 @@
 # pizza-delivery-app
-![rl-pizza-app](https://user-images.githubusercontent.com/64417892/118400920-459ebf00-b681-11eb-9388-b22002b198ff.gif)
+![Animated GIF-downsized_large (3)](https://user-images.githubusercontent.com/64417892/118400959-66ffab00-b681-11eb-918d-24ce5179f164.gif)
 # Used Node.js and express and mongoDB
 # Realtime -Orders can be tracked / modified via sockets
 ### How to intall and use the app?
